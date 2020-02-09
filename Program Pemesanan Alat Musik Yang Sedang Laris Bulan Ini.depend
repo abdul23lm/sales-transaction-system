@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490120474 source:c:\users\abdullm\downloads\compressed\tugas uts program pemesanan alat musik yang sedang laris bulan ini\tugas uts program pemesanan alat musik yang sedang laris bulan ini\main.c
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1490120474 source:e:\document\pemrograman\tugas alpro\tugas uts program pemesanan alat musik yang sedang laris bulan ini\main.c
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
